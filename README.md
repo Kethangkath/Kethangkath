@@ -1,5 +1,5 @@
 ### Howdy Dev's 👋
-- ⚡ ya'll can call me Kenneth or triple K
+- ⚡ Goes by Kenneth
 - ❤️ I love playing with code and see them come to live in the web page
 - 🔭 I’m currently working on NextJS projects
 - 🌱 I’m currently learning TypeScript
